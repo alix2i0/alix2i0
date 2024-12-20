@@ -39,7 +39,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alix2i0&show_icons=true&theme=gruvbox)
-[![GitHub Streak](https://streak-stats.demolab.com?user=alix2i0&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
